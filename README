@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=602
+
+This script merely outputs the first misspelled word in the current file on the status line.
+
+It needs aspell but should work with any speller that can output a (unsorted) list of badwords.
